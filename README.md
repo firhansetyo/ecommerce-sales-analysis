@@ -197,6 +197,6 @@ Open `notebook/E-Commerce_EDA.ipynb` in VSCode or Jupyter and run all cells.
 ## Author
 
 **Firhan Setyo**
-[GitHub](https://github.com/firhansetyo) · [LinkedIn](#) · [Portfolio](#)
+[GitHub](https://github.com/firhansetyo) · [LinkedIn](https://www.linkedin.com/in/firhansetyo/)
 
 *This project is an independent reconstruction of a MySkill Data Analyst Bootcamp capstone, rebuilt from scratch using the original dataset to deepen hands-on understanding of the full analytics workflow.*
