@@ -2,8 +2,6 @@
 
 A end-to-end data analysis project covering SQL querying, Python EDA, and BI dashboard — analyzing 4 years of e-commerce transaction data (2020–2024) across 6 relational tables with 21,703+ valid orders.
 
-![Dashboard Preview](assets/dashboard_preview.png)
-
 ---
 
 ## Project Overview
@@ -152,7 +150,7 @@ Customer types are evenly distributed across 6 segments (~750–800 each). Age d
 
 Built in **Google Looker Studio** using the `dashboard_sales_detail` SQL VIEW exported as CSV.
 
-🔗 [View Live Dashboard](https://lookerstudio.google.com) *(replace with your actual dashboard link)*
+🔗 [View Live Dashboard]([https://lookerstudio.google.com](https://datastudio.google.com/u/0/reporting/5cf2c968-4e8a-4b16-a5f3-d1548ed7dfcf/page/h3Z2F)) *(replace with your actual dashboard link)*
 
 ![Dashboard Preview](assets/dashboard_preview.png)
 
