@@ -150,7 +150,7 @@ Customer types are evenly distributed across 6 segments (~750–800 each). Age d
 
 Built in **Google Looker Studio** using the `dashboard_sales_detail` SQL VIEW exported as CSV.
 
-🔗 [View Live Dashboard]([https://lookerstudio.google.com](https://datastudio.google.com/u/0/reporting/5cf2c968-4e8a-4b16-a5f3-d1548ed7dfcf/page/h3Z2F)) *(replace with your actual dashboard link)*
+🔗 [View Live Dashboard]([https://lookerstudio.google.com](https://datastudio.google.com/u/0/reporting/5cf2c968-4e8a-4b16-a5f3-d1548ed7dfcf/page/h3Z2F))
 
 ![Dashboard Preview](assets/dashboard_preview.png)
 
